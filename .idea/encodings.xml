@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jsign-ant/src/main/java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/jsign-ant/src/main/resources" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/jsign-cli/src/main/java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/jsign-cli/src/main/resources" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/jsign-core/src/main/java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/jsign-core/src/main/resources" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/jsign-gradle-plugin/src/main/java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/jsign-gradle-plugin/src/main/resources" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/jsign-maven-plugin/src/main/java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/jsign-maven-plugin/src/main/resources" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/jsign/src/main/java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/jsign/src/main/resources" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="ISO-8859-1" />
+  </component>
+</project>
